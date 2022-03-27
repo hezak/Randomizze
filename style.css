@@ -7,7 +7,7 @@ font-family: 'Roboto Mono', monospace;
 
 }
 body{
-    background-image: url(./assets/img/photo-1552152974-19b9caf99137.webp);
+    background-image: url(./background.webp);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
